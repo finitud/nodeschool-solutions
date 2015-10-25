@@ -1,0 +1,20 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "Solutions for the makemehapi module at nodeschool.io",
+  "main": "makemehapi",
+  "dependencies": {
+    "h2o2": "^4.0.2",
+    "handlebars": "^4.0.3",
+    "hapi": "^11.0.2",
+    "inert": "^3.2.0",
+    "rot13-transform": "^1.0.0",
+    "vision": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Wyan",
+  "license": "ISC"
+}
